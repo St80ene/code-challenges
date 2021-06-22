@@ -14,6 +14,7 @@
 
 function miniMax(array) {
 	const sortedArray = array.sort((a, b) => a - b);
+	console.log(sortedArray);
 
 	let minValue = 0;
 	let maxValue = 0;

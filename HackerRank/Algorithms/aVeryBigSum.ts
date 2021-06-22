@@ -6,8 +6,9 @@
 
 //Solution
 
-function aVeryBigSum(ar) {
-	let count = 0;
+function aVeryBigSum(ar: Array<number>): bigint {
+	let count: number = 0;
+
 	for (let index = 0; index < ar.length; index++) {
 		count += ar[index];
 	}

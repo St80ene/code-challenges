@@ -1,0 +1,23 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "Building solutions, one code at a time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/St80ene/code-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/St80ene/code-challenges/issues"
+  },
+  "homepage": "https://github.com/St80ene/code-challenges#readme",
+  "dependencies": {
+    "typescript": "^4.3.4"
+  }
+}
