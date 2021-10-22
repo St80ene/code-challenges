@@ -8,7 +8,7 @@
 // Solution
 
 const charAt = (string, index) => {
-  let splitString = string.split();
+  let splitString = string.split('');
   let requiredLetter = index
 
   for (let index = 0; index < splitString.length; index++){
